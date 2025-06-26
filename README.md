@@ -65,8 +65,9 @@ This project involves:
 - Python
 - PyTorch
 - OpenCV
+- ResNet-18
 - Dash / Streamlit (for GUI)
-- Jupyter Notebook
+- unet, resnet-50, cnn for testing and research purposes...
 
 ---
 ```
