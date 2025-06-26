@@ -31,20 +31,17 @@ This project involves:
 ## 📊 Flow Diagrams
 
 ### 🔁 CNN Model Training  
-![CNN Model Training](./screenshots/cnn_model_training.png)  
-*Fig 5.1: CNN model training pipeline*
+cnn_model_training.png
 
 ---
 
 ### 🔁 ResNet18 Model Training  
-![ResNet18 Model Training](./screenshots/resnet18_model_training.png)  
-*Fig 5.2: ResNet18 model training pipeline*
+resnet18_model_training.png
 
 ---
 
 ### 🚀 Final Project Flow Using ResNet18  
-![Final Project Flow](./screenshots/flow_diagram_using_resnet18_final.png)  
-*Fig 6.1: Flow of image classification system using ResNet18*
+flow_diagram_using_resnet18_final.png
 
 ---
 
