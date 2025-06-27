@@ -57,37 +57,22 @@ flow_diagram_using_resnet18_final.png
 
 ---
 
-## 🔧 Technologies Used
+🛠️ Tools and Technologies Used
+-PyTorch – Core deep learning framework used to build and train models
+-TorchVision – Used for image transforms and pretrained models (ResNet18, ResNet50)
+-dash (by Plotly) – For building the interactive web interface for predictions
+-scikit-learn – Used for dataset splitting (train_test_split)
+-Pandas – For handling tabular data
+-PIL (Python Imaging Library) – For loading and processing images
+-Plotly Express – For visualizations
+-Google Colab – Used as the development and execution environment
 
-- Python
-- PyTorch
-- OpenCV
-- ResNet-18
-- Dash / Streamlit (for GUI)
-- unet, resnet-50, cnn for testing and research purposes...
+🧠 Models Used
+-ResNet-18 – Main model used for final implementation (pretrained, fine-tuned)
+-ResNet-50 – Used for testing performance and comparisons
+-Custom CNN – Built and tested for benchmarking against pretrained models
 
 ---
-```
-## 🚀 How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Baskar212/waste_image_classifer.git
-cd waste_image_classifer
-```
-
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the final project:
-
-```bash
-jupyter notebook FINAL_dash.ipynb
-```
 
 ---
 
